@@ -1,5 +1,5 @@
 # 2048 
-The project is a Java desktop application that implements the sliding block puzzle game 2048 by Gabriele Cirulli with some variations. There are three levels in this game. The first level is the original version of the game. The second level adds the gravity feature: when the users reach a certain score, the board will turn and the tiles will drop down as if they are pulled by gravity. In the third level, the tiles with the same value substract from each other when the board turns. We are still working on this level.
+The project is a Java desktop application that implements the sliding block puzzle game *2048* by Gabriele Cirulli with some variations. There are three levels in this game. The first level is the original version of the game. The second level adds the gravity feature: when the users reach a certain score, the board will turn and the tiles will drop down as if they are pulled by gravity. In the third level, the tiles with the same value substract from each other when the board turns. We are still working on this level.
 
 ## How To Run
 ```
