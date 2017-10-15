@@ -1,19 +1,35 @@
-# README #
+# 2048 
+The project is a Java desktop application that implements the sliding block puzzle game by Gabriele Cirulli with some variations. There are three levels in this game. The first level is the original version of the game. The second level adds the gravity feature: when the users reach a certain score, the board will turn and the tiles will drop down as if they are pulled by gravity. In the third level, the tiles with the same value substract from each other when the board turns. We are still working on this level.
 
+## How To Run
+```
+# Clone this repository
+$ git clone https://github.com/meganzhao/2048.git
 
-### What is this repository for? ###
+# Go into the repository
+$ cd 2048
 
-* The game itself is put in the src folder.
+# Go into the source folder
+$ cd src
 
-* The WelcomeHelp.java is the welcome page of our game. 
+# Run the app
+$ java MainPage
+```
+## How To Play
+Use arrow keys to move the tiles. When two tiles with the same number touch, they merge into one with the value of the two numbers added up.
+
+## Game Demo
+* Welcome page. 
 ![Alt text](2048images/img1.png?raw=true "Title")
 
-* The Gamepage.java is the game GUI of our game. When the user chooses a level in the welcomeHelp page, it directs to the gamepage.
-
-* There are three levels in this game. The first level is the same as the original game. We added additional features in the second and third level (see descriptions). In the second level, when the users reach a certain score, the board will turn, and the tiles will drop down as if they are pulled by gravity. 
+* Game page.
+![Alt text](2048images/img3.png?raw=true "Title")
 ![Alt text](2048images/img2.png?raw=true "Title")
 
-In the third level, to not only plan to turn the board, but also make the tiles with the same value substract from each other. We are still working on this level. 
+## Authors
+* Megan Zhao
+* Eva Zhong
+* Kaixing Wu
 
 More detailed descriptions of the game can be found in 'help' in the game. 
 
