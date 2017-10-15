@@ -20,11 +20,11 @@ Use arrow keys to move the tiles. When two tiles with the same number touch, the
 
 ## Game Demo
 * Welcome page. 
-![Alt text](2048images/img1.png?raw=true "Title")
+![Alt text](img-demo/img1.png?raw=true "Title")
 
 * Game page.
-![Alt text](2048images/img3.png?raw=true "Title")
-![Alt text](2048images/img2.png?raw=true "Title")
+![Alt text](img-demo/img3.png?raw=true "Title")
+![Alt text](img-demo/img2.png?raw=true "Title")
 
 ## Authors
 * Megan Zhao
